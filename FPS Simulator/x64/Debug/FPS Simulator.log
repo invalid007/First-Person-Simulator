@@ -1,0 +1,5 @@
+﻿  FPS Simulator.cpp
+C:\Users\mrinv\OneDrive\Desktop\CODE\github projects\FPS Simulator\FPS Simulator\FPS Simulator\FPS Simulator.cpp(24,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mrinv\OneDrive\Desktop\CODE\github projects\FPS Simulator\FPS Simulator\FPS Simulator\FPS Simulator.cpp(152,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mrinv\OneDrive\Desktop\CODE\github projects\FPS Simulator\FPS Simulator\FPS Simulator\FPS Simulator.cpp(162,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FPS Simulator.vcxproj -> C:\Users\mrinv\OneDrive\Desktop\CODE\github projects\FPS Simulator\FPS Simulator\x64\Debug\FPS Simulator.exe
