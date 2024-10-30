@@ -1,4 +1,4 @@
-# First Person Simulator
+# First Person Simulator Engine
 
 This is a simple First-Person Shooter (FPS) simulator implemented in C++ using console graphics. It uses Wolfenstein's ray casting algorithm to render a 3D-like environment in the console window.
 
